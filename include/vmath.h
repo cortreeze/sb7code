@@ -3,7 +3,7 @@
 
 
 #define _USE_MATH_DEFINES  1 // Include constants defined in math.h
-#include <math.h>
+#include <cmath>
 
 namespace vmath
 {
